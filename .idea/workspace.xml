@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b2195f-2b03-4de3-bd18-6ff30b3a4230" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="35b2195f-2b03-4de3-bd18-6ff30b3a4230" name="Changes" comment="Выполенна лаба, добавлено read.me">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UPD/UPD-client.py" beforeDir="false" afterPath="$PROJECT_DIR$/UPD/UPD-client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UPD/UPD-server.py" beforeDir="false" afterPath="$PROJECT_DIR$/UPD/UPD-server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +39,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/dandy/PycharmProjects/SocketServer/images/TCP_clinet.png"
+    "last_opened_file_path": "C:/Users/dandy/PycharmProjects/SocketServer/images/UDP-client.png"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dandy\PycharmProjects\SocketServer\images" />
       <recent name="C:\Users\dandy\PycharmProjects\SocketServer\TCP" />
     </key>
   </component>
@@ -67,6 +64,30 @@
       <option name="presentableId" value="Default" />
       <updated>1727752799478</updated>
     </task>
+    <task id="LOCAL-00001" summary="Выполенна лаба, добавлено read.me">
+      <option name="closed" value="true" />
+      <created>1727753633665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727753633665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполенна лаба, добавлено read.me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполенна лаба, добавлено read.me" />
   </component>
 </project>
